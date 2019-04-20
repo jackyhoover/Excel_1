@@ -1,0 +1,3 @@
+=COUNTIFS('Original Sheet'!$D2:$D4115, "<1000",
+
+=COUNTIFS('Original Sheet'!$D2:$D4115, ">=1000",'Original Sheet'!$D2:$D4115, "<5000")
